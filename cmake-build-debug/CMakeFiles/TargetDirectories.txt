@@ -1,0 +1,3 @@
+A:/Temporary/System/Desktop/RozvrhFMFI/cmake-build-debug/CMakeFiles/RozvrhFMFI.dir
+A:/Temporary/System/Desktop/RozvrhFMFI/cmake-build-debug/CMakeFiles/edit_cache.dir
+A:/Temporary/System/Desktop/RozvrhFMFI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
