@@ -1,0 +1,5 @@
+A:/Temporary/System/Desktop/test/cmake-build-debug/CMakeFiles/tests.dir
+A:/Temporary/System/Desktop/test/cmake-build-debug/CMakeFiles/gtest.dir
+A:/Temporary/System/Desktop/test/cmake-build-debug/CMakeFiles/RozvrhFMFI.dir
+A:/Temporary/System/Desktop/test/cmake-build-debug/CMakeFiles/edit_cache.dir
+A:/Temporary/System/Desktop/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

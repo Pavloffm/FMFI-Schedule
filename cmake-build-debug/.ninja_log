@@ -1,0 +1,20 @@
+# ninja log v6
+6	1103	7586679126053545	CMakeFiles/RozvrhFMFI.dir/src/entities/Event.cpp.obj	e75599d5ee525ed4
+27	1109	7586679126253953	CMakeFiles/RozvrhFMFI.dir/src/entities/Predmet.cpp.obj	b5de02d74230954e
+30	1191	7586679126284006	CMakeFiles/RozvrhFMFI.dir/src/managers/PredmetManager.cpp.obj	43e82ea6915ff6f2
+18	1195	7586679126168820	CMakeFiles/RozvrhFMFI.dir/src/managers/EventManager.cpp.obj	687e0301214ff3fb
+12	1232	7586679126113614	CMakeFiles/RozvrhFMFI.dir/src/entities/User.cpp.obj	ee9d845ca540d3b1
+15	1235	7586679126143625	CMakeFiles/RozvrhFMFI.dir/src/entities/Admin.cpp.obj	e740751253bf1b96
+2	1505	7586679126008449	CMakeFiles/RozvrhFMFI.dir/src/utilities/Date.cpp.obj	103e397bdb95b93f
+23	1510	7586679126218828	CMakeFiles/RozvrhFMFI.dir/src/managers/PersonManager.cpp.obj	43df7ac34e83ad23
+1109	2071	7586679137081200	CMakeFiles/RozvrhFMFI.dir/GoogleTest/gtest-filepath.cc.obj	7065dc12c437b250
+9	2137	7586679126083610	CMakeFiles/RozvrhFMFI.dir/src/entities/Person.cpp.obj	78b85575fbbfbec2
+1195	2237	7586679137929363	CMakeFiles/RozvrhFMFI.dir/GoogleTest/gtest-printers.cc.obj	9f1e51c31929ca49
+1236	2519	7586679138345363	CMakeFiles/RozvrhFMFI.dir/GoogleTest/gtest-typed-test.cc.obj	627c1565f09aebee
+1510	2533	7586679141089258	CMakeFiles/RozvrhFMFI.dir/GoogleTest/gtest_main.cc.obj	c087dcebdea6d0f1
+32	2981	7586679126314006	CMakeFiles/RozvrhFMFI.dir/src/tests/test.cpp.obj	9955074ee91564e3
+1232	5684	7586679138305369	CMakeFiles/RozvrhFMFI.dir/GoogleTest/gtest-test-part.cc.obj	2b9ffa0c06b67e0
+1105	5752	7586679137030827	CMakeFiles/RozvrhFMFI.dir/GoogleTest/gtest-death-test.cc.obj	c55bb3c1059abfd3
+1191	6077	7586679137899385	CMakeFiles/RozvrhFMFI.dir/GoogleTest/gtest-port.cc.obj	49a09cc0c129dc01
+1506	7195	7586679141049099	CMakeFiles/RozvrhFMFI.dir/GoogleTest/gtest.cc.obj	64e05b8e1515a60e
+7195	8277	7586679197932149	RozvrhFMFI.exe	12a2962a5552103a
